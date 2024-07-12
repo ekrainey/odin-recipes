@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipe wesite tutorial
+Odin recipe website tutorial
